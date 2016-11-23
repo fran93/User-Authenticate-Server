@@ -1,0 +1,15 @@
+{
+  "name": "user-auth-server",
+  "version": "1.0.0",
+  "description": "A node for authenticate users locally",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.11",
+    "restify": "^4.2.0"
+  }
+}
